@@ -1,8 +1,8 @@
 {% set name = "desdeo" %}
-{% set version = "0.2.0" %}
+{% set version = "0.2.1" %}
 {% set file_ext = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "35ba5aa6565b1bbeece68463a00251d0075cd6d79ebbd134912693ff2f37f3da" %}
+{% set hash_value = "5bbe8c7d9ccb82e9faf7ba6f66d82674171eab482b3eff795aacae9d214ec22d" %}
 
 package:
   name: '{{ name|lower }}'
